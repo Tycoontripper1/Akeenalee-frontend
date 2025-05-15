@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 import { ModeToggle } from "./theme-toggle"
 import { Menu, X } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
-import Logo from "@/public/logo.png"
+import Logo from "../public/Logo.png"
 import Image from "next/image"
 
 const navLinks = [

@@ -20,7 +20,7 @@ import { motion } from "framer-motion"
 import { FadeIn } from "./animations"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import Logo from "@/public/Logo.png"
+import Logo from "../public/Logo.png"
 import Image from "next/image"
 
 const navLinks = [
